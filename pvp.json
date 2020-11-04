@@ -44,8 +44,8 @@
   {
   "name": "fanmog",
   "allyCode": "818348112",
-  "discordId": "344305616782622741",
-  "userIcon": ":flag_us:"
+  "discordId": "",
+  "userIcon": ":flag_hk:"
   } ,
   {
   "name": "Jameson Oceanwalker",
@@ -82,6 +82,12 @@
   "allyCode": "248847928",
   "discordId": "357250459997569024",
   "userIcon": ":flag_es:"
+  } ,
+  {
+  "name": "Mandraig",
+  "allyCode": "895782532",
+  "discordId": "",
+  "userIcon": ":skull:"
   } ,
   {
   "name": "AlexandraZ",
