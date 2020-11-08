@@ -12,6 +12,12 @@
   "userIcon": ":flag_ca:"
   } ,
   {
+  "name": "Kyle",
+  "allyCode": "84513735",
+  "discordId": "",
+  "userIcon": ":skull:"
+  } ,
+  {
   "name": "MaathFaselli",
   "allyCode": "628491865",
   "discordId": "",
@@ -116,8 +122,8 @@
   {
   "name": "Gene",
   "allyCode": "411781768",
-  "discordId": "338074194858475530",
-  "userIcon": ":flag_us:"
+  "discordId": "",
+  "userIcon": ":skull:"
   } ,
   {
   "name": "Gash",
