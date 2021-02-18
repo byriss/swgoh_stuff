@@ -12,6 +12,11 @@
   "userIcon": ":flag_ca:"
   } ,
   {
+  "name": "Samsonite",
+  "allyCode": "826377178",
+  "discordId": "",
+  "userIcon": ":skull:"
+  } , {
   "name": "Kyle",
   "allyCode": "845137354",
   "discordId": "",
@@ -166,6 +171,12 @@
   "allyCode": "648952392",
   "discordId": "503736683598970891",
   "userIcon": ":flag_ca:"
+  } ,
+  {
+  "name": "Ronons Force Ghost",
+  "allyCode": "381858365",
+  "discordId": "",
+  "userIcon": ":flag_us:"
   } ,
   {
   "name": "B1uecnry",
